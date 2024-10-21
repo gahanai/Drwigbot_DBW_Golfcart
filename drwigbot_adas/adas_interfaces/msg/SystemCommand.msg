@@ -1,0 +1,12 @@
+std_msgs/Header header
+bool enable_dbw
+bool enable_sw_emergency
+bool enable_manual_override
+bool enable_reset
+bool enable_steering
+bool enable_throttle
+bool enable_brake
+bool enable_dio
+bool enable_logs
+uint8 enable_system_mode
+bool enable_sos

@@ -1,0 +1,12 @@
+std_msgs/Header header
+uint8 status_dbw
+bool status_sw_emergency
+bool status_manual_override
+bool status_reset
+bool status_steering
+bool status_throttle
+bool status_brake
+bool status_dio
+bool status_logs
+uint8 status_system_mode
+bool status_sos

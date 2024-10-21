@@ -1,0 +1,11 @@
+std_msgs/Header header
+bool auto_mode
+bool forward_direction
+bool speed_control
+bool low_light
+bool high_light
+bool brake_light
+bool horn
+bool left_indicator
+bool right_indicator
+bool enable

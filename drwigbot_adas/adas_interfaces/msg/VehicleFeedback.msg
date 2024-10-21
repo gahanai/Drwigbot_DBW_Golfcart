@@ -1,0 +1,11 @@
+std_msgs/Header header
+float32 vehicle_speed_kmph
+float32 vehicle_speed_mph
+float32 vehicle_fuel_level
+float32 vehicle_engine_rpm
+float32 vehicle_engine_load
+float32 vehicle_throttle_position
+bool vehicle_fault
+string vehicle_fault_status
+bool ignition_status
+string shifter_status
